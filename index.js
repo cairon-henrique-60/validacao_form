@@ -1,5 +1,3 @@
-// Atividade 4 do portifólio do segundo semestre ADS pela Anhanguera.
-// by: Cairon Henrique Gonçalves
 const form = document.getElementById('form')
 const username = document.getElementById('username')
 const email = document.getElementById('email')
